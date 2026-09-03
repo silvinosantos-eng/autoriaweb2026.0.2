@@ -10,3 +10,31 @@ color: black;
 p{
 font-size: 20px;
 }
+
+button  {
+  padding: 15px 32px;
+ font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.destaque {
+  background-color: #4CAF50; 
+  color: white;
+  border-radius: 10px;
+  padding: 20px ;
+}
+
+.aviso {
+  
+  color: white;
+  font-weight: bold;}
+
+  .escura {
+    background-color: #f44336; 
+    color: white;
+  }
+ 
+
+body { transition: background-color 0.3s ease, color 0.3s ease;
+ }
